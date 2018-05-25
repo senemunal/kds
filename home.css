@@ -1,0 +1,19 @@
+body{
+    padding-top: 5rem;
+    background-color: #dddddd !important;
+}
+
+.icerik{
+    background-color: #fff !important;
+    border: 1px solid #acacac;
+    border-radius: 5px;
+}
+
+.liste-ayir{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+#uyari-mesaji{
+    display: none;
+}
